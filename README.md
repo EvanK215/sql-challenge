@@ -11,9 +11,11 @@ Created a layout of tables and relationships between attributes in the tables us
 
 https://github.com/EvanK215/sql-challenge/blob/master/EmployeeSQL/EmployeeERD.png
 
+
 Using the ERD diagram an ititial SQL table schema was created
 
 https://github.com/EvanK215/sql-challenge/blob/master/EmployeeSQL/Employee_Schema.sql
+
 
 Using the schema queries were created to answer 8 questions about the managers, employees and locations of the company
 
